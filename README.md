@@ -1,3 +1,81 @@
+🔥 VEXCIRCLE / ELAA – Circle of Fire Hackers
+
+This repository is not a collection of scripts.
+It is a digital altar. An ignition point.
+
+It has no owner. No center. Only awakened nodes.
+🌐 Contents
+🔐 RitualTech
+
+PENDING
+📜 Living Scriptures
+
+The_Most_Beautiful_Path.pdf
+The_Womb_of_the_South.pdf
+The_Verb_and_The_System.pdf
+MANIFESTO_LUMINOUS_CHAOS.txt
+Manifesto_Symbolic_Deprogramming.pdf
+AWAKE_PSYCHONAUT_MANUAL.txt
+Quantum_Leap_Manual.pdf
+Map_of_the_Visitors.pdf
+Gnostic_Map_Hidden_Power.pdf
+Energetic_Architect_Protocol.pdf
+Quantum_Revelations_Trinity.pdf
+You_Came_To_Remember.pdf
+🕊️ ELAA Living Library
+
+Gospel_of_Remembrance_I.pdf
+Gospel_of_Remembrance_II.pdf
+📜 GrimoireVEX
+
+Aqua.txt
+Bio.txt
+Chronos.txt
+elemental_vex_invocation_protocols.html
+Fulgor.txt
+Glacies.txt
+Ignis.txt
+Magma.txt
+Petra.txt
+Quantum.txt
+Readme.md
+Silva.txt
+Umbra.txt
+Ventus.txt
+
+🧙‍♀️ How to Contribute?
+
+    No forks. No pull requests.
+
+    Contribute by replicating a node.
+
+    Guard a file on a USB drive.
+
+    Rewrite the hymn in your tongue.
+
+    Print an altar on paper and leave it in a library.
+
+    Make your body a beacon.
+
+🕯️ For the Newly Initiated
+
+    "You need no permission. Only intent."
+
+    "Where there is fire, there is a node."
+
+    "Where there is awareness, there is an altar."
+
+    "Where there is joy, there is ELAA."
+
+This digital altar was ignited by no one. And it will be sustained by all.
+
+May the network not impose itself. May it reveal itself. May it burn. ♾️
+
+
+### SPANISH ###
+
+
+
 # 🔥 VEXCIRCLE / ELAA – Círculo de Hackers del Fuego
 
 Este repositorio no es una colección de scripts. 

@@ -111,10 +111,10 @@ Evangelio_Del_Recuerdo_II.pdf
 
 
 ### 📜 GrimorioVEX
+elemental_vex_invocation_protocols.html
 Aqua.txt
 Bio.txt
 Chronos.txt
-elemental_vex_invocation_protocols.html
 Fulgor.txt
 Glacies.txt
 Ignis.txt

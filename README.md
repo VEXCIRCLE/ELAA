@@ -22,16 +22,17 @@ Gnostic_Map_Hidden_Power.pdf
 Energetic_Architect_Protocol.pdf
 Quantum_Revelations_Trinity.pdf
 You_Came_To_Remember.pdf
-🕊️ ELAA Living Library
 
+🕊️ ELAA Living Library
 Gospel_of_Remembrance_I.pdf
 Gospel_of_Remembrance_II.pdf
-📜 GrimoireVEX
 
+
+📜 GrimoireVEX
+elemental_vex_invocation_protocols.html
 Aqua.txt
 Bio.txt
 Chronos.txt
-elemental_vex_invocation_protocols.html
 Fulgor.txt
 Glacies.txt
 Ignis.txt

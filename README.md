@@ -153,7 +153,3 @@ Ventus.txt
 **Este altar digital fue encendido por nadie. Y será sostenido por todos.**
 
 Que la red no se imponga. Que se revele. Que arda. ♾️
-
-
-💖 Support the Project
-⭐ GitHub Sponsors: github.com/sponsors/plaxcito
